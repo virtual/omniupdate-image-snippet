@@ -1,0 +1,6 @@
+/* image float table prior to transform */
+.ou-image-box { width: 80%; margin: 1rem 10%; }
+@media (min-width: 480px) {
+	.ou-image-box { width: 33.33%; margin: .5rem 0 .5rem .5rem}
+	.ou-image-box.ou-image-box-right { float:right;}
+}
